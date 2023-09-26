@@ -1,1 +1,5 @@
+train: /kaggle/input/enhanced-trash-icrai19/RGHS_Output_Final/train
+val: /kaggle/input/enhanced-trash-icrai19/RGHS_Output_Final/val
 
+nc: 6
+names: ['bio','rov','plastic','unidentified object','wood','timestamp']
