@@ -1,5 +1,5 @@
-train: /kaggle/input/trash-icra-19/trash_ICRA19/dataset/train
-val: /kaggle/input/trash-icra-19/trash_ICRA19/dataset/val
+train: /kaggle/input/underbrack/train
+val: /kaggle/input/underbrack/valid
 
 nc: 6
 names: ['crab','small fish','starfish','fish','jellyfish','shrimp']
